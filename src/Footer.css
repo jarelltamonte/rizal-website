@@ -1,0 +1,48 @@
+.footer {
+    height: fit-content;
+    padding: 2% 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    background-color: #dacdbc;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  
+  .footer-text {
+    user-select: none;
+    color: #000000;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
+  .footer-name {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    color: #000000;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .footer-name:hover {
+    transform: scale(1.05);
+    color: #6a4b1f;
+  }
+  
+  .footer-icon {
+    margin-right: 6px;
+    vertical-align: middle;
+    color: #6a4b1f;
+  }
+  
+  .footer-quote {
+    margin-top: 1rem;
+    font-style: italic;
+    color: #333;
+    font-size: 0.9rem;
+    text-align: center;
+    max-width: 500px;
+    user-select: none;
+  }
+  

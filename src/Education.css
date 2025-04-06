@@ -1,0 +1,145 @@
+.education-container {
+  padding: 4% 4%;
+  background-color: #5b4f47;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.education-title {
+  color: #ffffff;
+  font-size: 64px;
+  font-family: "Italianno", sans-serif;
+  margin-bottom: 5px;
+  user-select: none;
+}
+
+.education-subtitle {
+  color: #dacdbc;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 4%;
+  user-select: none;
+}
+
+.education-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.location {
+  color: #5b4f47;
+}
+
+.education-card {
+  background: white;
+  border-radius: 8px;
+  padding: 25px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: relative;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.education-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.education-card h2 {
+  color: #5b4f47;
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.years-rating {
+  color: #666;
+  margin: 5px 0 15px;
+}
+
+.education-details {
+  line-height: 1.6;
+}
+
+.education-details p {
+  margin: 8px 0;
+}
+
+.description {
+  margin: 15px 0 !important;
+}
+
+.notable-section h3,
+.achievements-section h3 {
+  color: #5b4f47;
+  margin: 15px 0 8px;
+}
+
+.notable-section ul,
+.achievements-section ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.education-category {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: #f0f0f0;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  color: #666;
+  text-transform: uppercase;
+}
+
+.tutors {
+  margin: 0;
+  padding-bottom: 1%;
+  font-size: 18px;
+  font-weight: bold;
+  color: #5b4f47;
+}
+
+.tutors-list {
+  color: #000000;
+  font-family: "Inter", sans-serif;
+  background: white;
+  border-radius: 8px;
+  padding: 25px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 50%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.tutorName {
+  color: #5b4f47;
+  font-weight: 600;
+}
+
+.tt {
+  margin: 0.5% 0;
+}
+
+.addnotes {
+  text-align: justify;
+  color: #dacdbc;
+  margin: 3% 0;
+  user-select: none;
+}
+
+@media (max-width: 460px){
+  .tutors-list{
+    width: 80%;
+  }
+  .education-subtitle{
+    margin-bottom: 10%;
+  }
+
+  .addnotes{
+    margin: 10% 0;
+  }
+}
