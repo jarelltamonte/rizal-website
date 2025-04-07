@@ -67,6 +67,7 @@
   border: 0;
   border-radius: 20px;
   transition: color 1s, transform 1s;
+  cursor: pointer;
 }
 
 .educationButton:hover {
@@ -96,6 +97,7 @@
   font-size: 64px;
   color: #ffffff;
   margin: 0;
+  user-select: none;
 }
 
 .mysteryPic {
@@ -110,6 +112,7 @@
 .romance-deets{
   text-align: center;
   color: #000000;
+  user-select: none;
 }
 
 .romanceButton {
@@ -123,6 +126,7 @@
   border: 0;
   border-radius: 20px;
   transition: color 1s, transform 1s;
+  cursor: pointer;
 }
 
 .romanceButton:hover {
