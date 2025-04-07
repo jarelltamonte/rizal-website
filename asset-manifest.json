@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/jarelltamonte/rizal-website/static/css/main.7a1bc23a.css",
+    "main.js": "/jarelltamonte/rizal-website/static/js/main.4bd96d7e.js",
+    "static/js/453.f99fb993.chunk.js": "/jarelltamonte/rizal-website/static/js/453.f99fb993.chunk.js",
+    "static/media/clock.png": "/jarelltamonte/rizal-website/static/media/clock.a398e9c1910787e7c44e.png",
+    "static/media/7.png": "/jarelltamonte/rizal-website/static/media/7.3fa5ca56d3d1f47d7ce4.png",
+    "static/media/background-rizal.jpg": "/jarelltamonte/rizal-website/static/media/background-rizal.abb2f54a5e8399db5b65.jpg",
+    "static/media/4.png": "/jarelltamonte/rizal-website/static/media/4.786ff7de974ab9e6c150.png",
+    "static/media/bgg-rizal.jpg": "/jarelltamonte/rizal-website/static/media/bgg-rizal.8a4843711a7abdf3bada.jpg",
+    "static/media/5.png": "/jarelltamonte/rizal-website/static/media/5.868846a8e1153353375e.png",
+    "static/media/jose.png": "/jarelltamonte/rizal-website/static/media/jose.46aeefeb7eef30bb794c.png",
+    "static/media/rizal.jpg": "/jarelltamonte/rizal-website/static/media/rizal.f5132db10961ab4e1ffd.jpg",
+    "static/media/3.jpg": "/jarelltamonte/rizal-website/static/media/3.4724617fe3956c54d863.jpg",
+    "static/media/1.jpg": "/jarelltamonte/rizal-website/static/media/1.fe311d9d2ddb281d9780.jpg",
+    "static/media/9.jpg": "/jarelltamonte/rizal-website/static/media/9.0c1c1cb1dfdcf80f4aa1.jpg",
+    "static/media/mystery.jpg": "/jarelltamonte/rizal-website/static/media/mystery.340ce2c5d2fd1dba7c1f.jpg",
+    "static/media/2.jpg": "/jarelltamonte/rizal-website/static/media/2.3dbf8dc31360fd2da389.jpg",
+    "static/media/6.jpeg": "/jarelltamonte/rizal-website/static/media/6.a5f0bcb17984364f733a.jpeg",
+    "index.html": "/jarelltamonte/rizal-website/index.html",
+    "main.7a1bc23a.css.map": "/jarelltamonte/rizal-website/static/css/main.7a1bc23a.css.map",
+    "main.4bd96d7e.js.map": "/jarelltamonte/rizal-website/static/js/main.4bd96d7e.js.map",
+    "453.f99fb993.chunk.js.map": "/jarelltamonte/rizal-website/static/js/453.f99fb993.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a1bc23a.css",
+    "static/js/main.4bd96d7e.js"
+  ]
+}
